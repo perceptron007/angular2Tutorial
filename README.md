@@ -1,6 +1,6 @@
 # Angular 2 Samurai
 
-A guide i am making to learn angular.js 2
+A guide i am making to learn angular 2+
 
 ## How to follow this guide 
 
@@ -26,3 +26,20 @@ A guide i am making to learn angular.js 2
 - [ ] [How to Get Started With Angular Material](https://alligator.io/angular/angular-material-2/) :notebook:
 
   *[Angular Material Official](https://material.angular.io/)
+  
+### Introduction to Reactive Forms 
+
+- [ ] [A easy introduction to do Reactive Forms](https://alligator.io/angular/reactive-forms-introduction/) :notebook:
+  
+### How to decompose the UI into components
+
+- [ ] [How to create a reactive form and decompose it](https://toddmotto.com/component-architecture-reactive-forms-angular) :notebook:
+
+### How to access Route Parameters
+
+ - [ ] [How to access route parameters](https://toddmotto.com/angular-parent-routing-params) :notebook:
+ 
+### How to define Lazy Loading and Decompose NgModule
+
+- [ ] [Breaking down an angular module](https://toddmotto.com/lazy-loading-angular-code-splitting-webpack) :notebook:
+
