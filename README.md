@@ -43,3 +43,9 @@ A guide i am making to learn angular 2+
 
 - [ ] [Breaking down an angular module](https://toddmotto.com/lazy-loading-angular-code-splitting-webpack) :notebook:
 
+## Common Use Cases Articles
+
+### How to pass dynamic data between parent and child components  
+
+- [ ] [Passing dynamic data from Parent to Component](https://ngdev.space/angular-2-input-property-changes-detection-3ccbf7e366d2) :package:
+
