@@ -49,3 +49,9 @@ A guide i am making to learn angular 2+
 
 - [ ] [Passing dynamic data from Parent to Component](https://ngdev.space/angular-2-input-property-changes-detection-3ccbf7e366d2) :package:
 
+### How to pass different templates to a generic component ?
+
+- [ ] [Passing template dynamically](https://blog.mgechev.com/2017/10/01/angular-template-ref-dynamic-scoping-custom-templates/) :package:
+
+
+
