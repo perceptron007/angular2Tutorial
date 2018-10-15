@@ -1,6 +1,6 @@
-# Angular 2 Samurai
+# Angular Samurai
 
-A guide i am making to learn angular 2+
+A guide i am making to learn Angular
 
 ## How to follow this guide 
 
@@ -52,6 +52,14 @@ A guide i am making to learn angular 2+
 ### How to pass different templates to a generic component ?
 
 - [ ] [Passing template dynamically](https://blog.mgechev.com/2017/10/01/angular-template-ref-dynamic-scoping-custom-templates/) :package:
+
+### FAQ
+
+- [ ] [Why is immutability so important in React/Angular Framework](https://stackoverflow.com/questions/34385243/why-is-immutability-so-important-or-needed-in-javascript) :notebook:
+
+- [ ] [Web Sockets Caution Required](https://samsaffron.com/archive/2015/12/29/websockets-caution-required) :notebook:
+
+- [ ] [Everything About System Design](https://martinfowler.com/design.html) :notebook:
 
 
 
