@@ -53,6 +53,9 @@ A guide i am making to learn Angular
 
 - [ ] [Passing template dynamically](https://blog.mgechev.com/2017/10/01/angular-template-ref-dynamic-scoping-custom-templates/) :package:
 
+### When to use Ng-Class and Ng-Style ?
+- [ ] [Ng-Class and Ng-Style](https://codecraft.tv/courses/angular/built-in-directives/ngstyle-and-ngclass/) 📃
+
 ### FAQ
 
 - [ ] [Why is immutability so important in React/Angular Framework](https://stackoverflow.com/questions/34385243/why-is-immutability-so-important-or-needed-in-javascript) :notebook:
